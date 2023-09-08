@@ -1,22 +1,14 @@
-# Ecommerce Admin
-
-![Ecommerce-admin](https://i.postimg.cc/rczsW-CB4/ecommerce-admin.png)
-
-### [Live Site](https://ecommerce-admin-iota-sepia.vercel.app/)
+# REST API with JWT Authentication & Pagination
 
 ## Introduction
-Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL, Clerk Auth.
-
-The e-commerce admin dashboard is a user interface specifically designed to manage and control the operations of an online store or e-commerce platform.
+I developed a robust RESTful API with JWT (JSON Web Token) authentication, ensuring secure and efficient communication between clients and the server. This application facilitates seamless data exchange and user access control, it also includes pagination for better performance when GET data from the server, to showcasing my expertise in web development and security best practices.
 
 ### Tech Stack 💻 :
-- NextJS
-- React
-- TailwindCSS
+- ExpressJS
+- NodeJS
 - Mysql
 - Prisma
-- Clerk Auth
-- ShadcnUI
+- JWT (JSON Web Token)
 
 ### Cloning the repository
 
