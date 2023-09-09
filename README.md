@@ -1,4 +1,4 @@
-fa# REST API with JWT Authentication & Pagination
+efa# REST API with JWT Authentication & Pagination
 
 ## Introduction
 I developed a robust RESTful API with JWT (JSON Web Token) authentication, ensuring secure and efficient communication between clients and the server. This application facilitates seamless data exchange and user access control, it also includes pagination for better performance when GET data from the server, to showcasing my expertise in web development and security best practices.
